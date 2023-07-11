@@ -1,0 +1,39 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(to right, #FF8A29, #CF5D00);
+    color: white;
+    padding: 2px;
+    height: 49px;
+    width: 100%;
+  }
+  
+  .logo {
+    margin-left: 210px;
+    flex-grow: 1;
+  }
+  
+  .icons {
+    display: flex;
+    align-items: center;
+    margin-right: 210px;
+  }
+  
+  .icon-wrapper {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;    
+  }
+  
+  .icon-wrapper svg {
+    font-size: 1.1rem; /* Ajuste o valor para alterar o tamanho dos ícones */
+  }
+  
+
+  p {
+    line-height: 19.6px;
+    font-size: 14px;
+    margin-left: 5px;
+  }
+  

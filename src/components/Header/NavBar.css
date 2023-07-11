@@ -1,0 +1,41 @@
+.navbar {
+    height: 188px;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logoImg {
+    margin-top: 38px;
+    margin-left: 210px;
+}
+
+.menuIcons {
+    display: flex;
+    margin-right: 210px;
+}
+
+.menuIcon-wrapper {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;    
+  }
+
+.menuIcon-icons {
+    margin-right: 12px;
+    width: 28px ;
+    height: 26px;
+}
+
+.icon {
+    margin-right: 12px;
+    width: 28px;
+    height: 26px;
+  }
+
+p {
+    line-height: 19.6px;
+    font-size: 14px;
+    margin-left: 5px;
+  }
