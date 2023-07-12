@@ -4,6 +4,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    font-weight: 400;
     
 }
 
@@ -21,12 +22,14 @@
     display: flex;
     align-items: center;
     margin-left: 1.25rem;
+    
 }
 
 .menuIcon-icons {
     margin-right: 0.75rem;
     width: 1.75rem;
     height: 1.625rem;
+    
 }
 
 .icon {

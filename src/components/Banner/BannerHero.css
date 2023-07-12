@@ -1,0 +1,31 @@
+.bannerHeroContainer {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .bannerHero {
+    object-fit: cover;  
+  }
+  
+  .inforBanner {
+    position: absolute;
+    top: 50%;
+    right: -180px;
+    transform: translate(-50%, -50%);
+  }
+  
+  .inforBanner p {
+    color: #383838
+    ; /* Cor desejada para os textos */
+  }
+  
+  .btnBanner {
+    width: 257px;
+    height: 46px;
+    border-radius: 3px;
+    background: linear-gradient(to right, #F99500
+    , #FFCD29);
+    color: white;
+    font-size: larger;
+    border: none;
+  }
