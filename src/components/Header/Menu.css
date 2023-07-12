@@ -1,0 +1,44 @@
+.Menu {
+    height: 106px;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.logoImg {
+    margin-top: 2.375rem;
+    margin-left: 13.125rem;
+}
+
+.menuIcons {
+    display: flex;
+    margin-right: 13.125rem;
+}
+
+.menuIcon-wrapper {
+    display: flex;
+    align-items: center;
+    margin-left: 1.25rem;
+}
+
+.menuIcon-icons {
+    margin-right: 0.75rem;
+    width: 1.75rem;
+    height: 1.625rem;
+}
+
+.icon {
+    margin-right: 0.75rem;
+    width: 1.75rem;
+    height: 1.625rem;
+}
+
+p {
+    line-height: 1.225rem;
+    font-size: 0.875rem;
+    margin-left: 0.3125rem;
+}
+
+

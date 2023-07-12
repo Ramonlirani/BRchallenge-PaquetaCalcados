@@ -1,11 +1,11 @@
 import React from 'react';
-import './NavBar.css';
+import './Menu.css';
 import logoPaqueta from '../../assets/logoPaqueta.png';
 import { Heart, ShoppingBag, User } from 'lucide-react';
 
-const NavBar = () => {
+const Menu = () => {
   return (
-    <div className="navbar">
+    <div className="Menu">
       <img className="logoImg" src={logoPaqueta} alt="logoPaqueta" />
       <div className="menuIcons">
         <div className="menuIcon-wrapper">
@@ -25,4 +25,4 @@ const NavBar = () => {
   );
 };
 
-export default NavBar;
+export default Menu;
