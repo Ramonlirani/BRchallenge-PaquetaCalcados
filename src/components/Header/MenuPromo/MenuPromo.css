@@ -1,0 +1,17 @@
+.menuPromoMainDiv {
+  width: 100%;
+  display: flex;
+  background: linear-gradient(to right, #FF8A29, #CF5D00);
+  height: 163px;
+  align-items: center;
+  justify-content: space-evenly;
+  
+}
+
+.iconsMenuPromo {
+    display: flex;
+    margin-right: 14px;
+    align-items: center;
+    
+}
+

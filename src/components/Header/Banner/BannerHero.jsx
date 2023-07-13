@@ -1,6 +1,6 @@
 import React from 'react';
 import './BannerHero.css';
-import Banner from '../../assets/bannerHero.png';
+import Banner from '../../../assets/bannerHero.png';
 
 const BannerHero = () => {
   return (
@@ -48,7 +48,7 @@ const BannerHero = () => {
         >
           R$ 79,99
         </p>
-        <button className="btnBanner">Aproveite</button>
+        <button className="btnBanner">APROVEITE</button>
       </div>
     </div>
   );

@@ -1,0 +1,39 @@
+.firstDivBodyMain {
+    display: flex;
+    margin-left: 18%;
+    margin-right: 18%;
+    justify-content: space-between;
+    margin-top: 72px;
+    align-items: center;
+}
+
+.bannerFem {
+    width: 40.71%;
+    height: 39.7%;
+}
+
+.firstDivBodyMain p {
+    color: #383838;
+    text-align: end;
+    font-size: 22px;
+    line-height: 36px;
+   
+}
+
+.variedadeTextoBold {
+  font-weight: 600;
+}
+
+.btnFirstDiv {
+    margin-left: 300px;
+    width: 257px;
+    height: 46px;
+    border-radius: 3px;
+    background: linear-gradient(to right, #F99500
+    , #FFCD29);
+    color: white;
+    font-size: 18px;
+    border: none;
+    font-family: 'Poppins, sans-serif';
+    font-weight: 700;  
+}
