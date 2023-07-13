@@ -24,6 +24,7 @@
   }
   
   .btnBanner {
+    cursor: pointer;
     width: 257px;
     height: 46px;
     border-radius: 3px;
@@ -34,4 +35,8 @@
     border: none;
     font-family: 'Poppins, sans-serif';
     font-weight: 400
+  }
+
+  .btnBanner:hover {
+    opacity: 0.8;
   }

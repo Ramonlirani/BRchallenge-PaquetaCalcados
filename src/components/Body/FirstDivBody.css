@@ -25,6 +25,7 @@
 }
 
 .btnFirstDiv {
+    cursor:pointer;
     margin-left: 300px;
     width: 257px;
     height: 46px;
@@ -36,4 +37,8 @@
     border: none;
     font-family: 'Poppins, sans-serif';
     font-weight: 700;  
+}
+
+.btnFirstDiv:hover {
+    opacity: 0.8;
 }

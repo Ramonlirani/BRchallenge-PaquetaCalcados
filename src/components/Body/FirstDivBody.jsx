@@ -15,7 +15,9 @@ const FirstDivBody = () => {
           não será uma tarefa <br />
           fácil, mas o que uma mulher não consegue fazer?{' '}
         </p>
-        <button className="btnFirstDiv">CONFERIR</button>
+        <button type="button" className="btnFirstDiv">
+          CONFERIR
+        </button>
       </div>
     </div>
   );

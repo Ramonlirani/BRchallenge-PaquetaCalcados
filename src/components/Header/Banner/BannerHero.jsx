@@ -48,7 +48,9 @@ const BannerHero = () => {
         >
           R$ 79,99
         </p>
-        <button className="btnBanner">APROVEITE</button>
+        <button type="button" className="btnBanner">
+          APROVEITE
+        </button>
       </div>
     </div>
   );
