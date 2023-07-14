@@ -1,32 +1,29 @@
-.firstDivBodyMain {
+.secondDivBodyMain {
     display: flex;
     margin-left: 18%;
     margin-right: 18%;
     justify-content: space-between;
-    margin-top: 72px;
+    margin-top: 171px;
     align-items: center;
 }
 
-.bannerFem {
+.bannerMasc {
     width: 40.71%;
     height: 39.7%;
+    margin-bottom: 6rem;
 }
 
-.firstDivBodyMain p {
+
+.secondDivBodyMain p {
     color: #383838;
-    text-align: end;
+    text-align: start;
     font-size: 22px;
     line-height: 36px;
    
 }
 
-.variedadeTextoBold {
-  font-weight: 600;
-}
-
-.btnFirstDiv {
+.btnSecondDiv {
     cursor:pointer;
-    margin-left: 300px;
     margin-top: 20px;
     width: 257px;
     height: 46px;
@@ -38,9 +35,9 @@
     border: none;
     font-family: 'Poppins, sans-serif';
     font-weight: 700;  
-    
 }
 
-.btnFirstDiv:hover {
+.btnSecondDiv:hover {
     opacity: 0.8;
 }
+

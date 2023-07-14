@@ -1,0 +1,16 @@
+.mainDivShowCase {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 7rem;
+    margin-left: 18%;
+    margin-right: 18%;
+}
+
+.mainDivShowCase p {
+    color: #383838;
+    text-align: end;
+    font-size: 22px;
+    line-height: 36px;
+   
+}
